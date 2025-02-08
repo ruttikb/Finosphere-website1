@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Finosphere Technologies</title>
+</head>
+<body>
+    <h1>Welcome to Finosphere Technologies</h1>
+    <p>Live market data and algo trading solutions coming soon!</p>
+</body>
+</html>
+
